@@ -2,7 +2,7 @@
 
 **``Técnico de sistemas audiovisuais``**
 
-Me chamo Pedro da Cunha, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Engenharia de Computação na Uniritter. Sou técnico de sistemas audiovisuais na RBSTV, filial Globo no RS. Desde sempre sou apaixonado por tecnologia e aqui compartilho alguns projetos.
+Me chamo Pedro da Cunha, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Engenharia de Computação na Uniritter. Sou técnico de sistemas audiovisuais na RBSTV, filial Globo no RS. Desde sempre sou apaixonado por tecnologia e aqui compartilho alguns projetos.
 
 <p align="left">
     <a href = "mailto:pedro.cunhab@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" target="_blank"></a>
