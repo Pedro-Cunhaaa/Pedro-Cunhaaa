@@ -110,8 +110,8 @@ Me chamo Pedro da Cunha, tenho 22 anos e sou natural do Rio Grande do Sul. Curso
 <p>
   <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Linguagens mais usadas" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Cunhaaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-rho-swart-23.vercel.app/api/top-langs/?username=Pedro-Cunhaaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=2" 
   />
 </p>
